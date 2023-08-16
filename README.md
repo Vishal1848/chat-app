@@ -1,1 +1,1 @@
-Live At => https://chatting-app-rnar.onrender.com
+Live At => https://real-time-chit-chat-app.onrender.com/
